@@ -12,10 +12,10 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
 # Supplementary Focuses
 - DevSecOps
   - CI/CD Pipelines (_GitHub Actions_)
-  - Software Security (SAST/DAST, OWASP, Secrets Management)
+  - Software Security (_SAST/DAST_, _OWASP_, _Secrets Management_)
   - Docker
   - Kubernetes
-  - IaC (Terraform)
+  - IaC (_Terraform_)
 - Scripting
   - Python
   - Bash
