@@ -2,14 +2,14 @@
 Aspiring Cloud Security Engineer | CS Student @ CSU  
 🔐 Passionate about AWS, Security, DevOps, Networing, Cloud Engineering, and Automation
 
-## 🚀 Certifications
+## 📜 Certifications
 - CompTIA Network+
 - CompTIA Security+
 - AWS Certified Solutions Architect – Associate (_In Progress_)
 - AWS Certified SysOps Administrator – Associate (_TBD_)
 - AWS Security – Specialty (_TBD_)
 
-# Supplementary Focuses
+## 🚀 Supplementary Learning
 - DevSecOps
   - CI/CD Pipelines (_GitHub Actions_)
   - Software Security (_SAST/DAST_, _OWASP_, _Secrets Management_)
