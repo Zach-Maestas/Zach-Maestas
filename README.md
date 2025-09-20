@@ -5,7 +5,7 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
 ## 📜 Certifications
 - CompTIA Network+
 - CompTIA Security+
-- AWS Certified Solutions Architect – Associate (_In Progress_)
+- AWS Certified Solutions Architect – Associate
 - AWS Certified CloudOps Engineer – Associate (_TBD_)
 - AWS Security – Specialty (_TBD_)
 
