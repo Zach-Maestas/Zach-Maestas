@@ -6,22 +6,24 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
 - CompTIA Network+
 - CompTIA Security+
 - AWS Certified Solutions Architect – Associate
-- AWS Certified CloudOps Engineer – Associate (_TBD_)
-- AWS Security – Specialty (_TBD_)
+- AWS Certified CloudOps Engineer – Associate (_In Progress_)
 
-## 🚀 Supplementary Learning
-- DevSecOps
-  - CI/CD Pipelines (_GitHub Actions_)
-  - Software Security (_SAST/DAST_, _OWASP_, _Secrets Management_)
-  - Docker
-  - Kubernetes
-  - IaC (_Terraform_)
+## 🚀 Skills/Learning
+- IaC
+  - Terraform
+- Networking Fundamentals
+  - TCP/IP, firewalls, routing, subnets, DNS
 - Scripting
   - Python
   - Bash
 - System Administration
   - Linux
   - Windows
+- Cloud Fundamentals
+  - AWS Architecture (VPC, EC2, S3, IAM, etc.)
+  - AWS CloudOps (CloudWatch/CloudTrail, GuardDuty, KMS, Security Hub, etc.)
+- DevSecOps Fundamentals
+  - CI/CD Pipelines
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zach-maestas-325a482b6/))
