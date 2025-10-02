@@ -26,4 +26,4 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
   - CI/CD Pipelines
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/zach-maestas-325a482b6])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zach-maestas-325a482b6)
