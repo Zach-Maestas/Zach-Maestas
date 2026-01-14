@@ -22,12 +22,12 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
 - **Containerization**
   - Docker
 - **Cloud Fundamentals (AWS)**
-  - **Architecture:** VPC, EC2/ECS, S3, RDS, ALB, Route 53
-  - **Ops:** CloudWatch/CloudTrail, SSM, Config, EventBridge
-  - **Security:** IAM/STS, IAM Access Analyzer, GuardDuty, KMS, Secrets Manager, Security Hub, SCPs & permission boundaries
+  - Architecture: _VPC, EC2/ECS, S3, RDS, ALB, Route 53_
+  - Ops: _CloudWatch/CloudTrail, SSM, Config, EventBridge_
+  - Security: _IAM/STS, IAM Access Analyzer, GuardDuty, KMS, Secrets Manager, Security Hub, SCPs & permission boundaries_
 - **CI/CD**
   - GitHub Actions
-  - Security gates/scanning
+  - Supply Chain Security (_SAST/DAST, deps, image scan_)
   - AWS OIDC auth
 
 
