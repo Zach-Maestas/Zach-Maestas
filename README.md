@@ -6,7 +6,7 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
 - CompTIA Network+
 - CompTIA Security+
 - AWS Certified Solutions Architect – Associate
-- AWS Certified CloudOps Engineer – Associate (_In Progress_)
+- HashiCorp Terraform Associate 004 (_In Progress_)
 
 ## 🚀 Skills/Learning
 - IaC
