@@ -28,7 +28,7 @@ Aspiring Cloud Security Engineer | CS Student @ CSU
 - **CI/CD**
   - GitHub Actions
   - Supply Chain Security (_SAST/DAST, deps, image scan_)
-  - AWS OIDC auth
+  - AWS OIDC Auth
 
 
 ## 📫 Connect with me
