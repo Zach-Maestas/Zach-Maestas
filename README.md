@@ -8,7 +8,7 @@ I build and secure AWS infrastructure with an emphasis on least-privilege IAM, n
 
 ## 🔧 Projects
 
-**[AWS Cloud Security Operations & DevSecOps]([https://github.com/Zach-Maestas/aws-cloud-security-ops](https://github.com/Zach-Maestas/aws-security-ops-pipeline))**
+**[AWS Cloud Security Operations & DevSecOps](https://github.com/Zach-Maestas/aws-security-ops-pipeline)**
 Production-patterned AWS security platform featuring secure multi-tier VPC architecture, automated incident response (EventBridge → Lambda → SNS), and a DevSecOps pipeline with four security gates (Gitleaks, Checkov, Trivy, Terraform validate). Full deploy or teardown from a single command.
 
 ---
