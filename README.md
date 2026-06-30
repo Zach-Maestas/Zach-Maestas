@@ -1,47 +1,77 @@
 # Hi, I'm Zach 👋
 
-**Cloud & DevOps Engineer** | Recent CS Graduate — Colorado State University (Networks & Security)
+**Infrastructure & Cloud Engineering** | Recent Computer Science Graduate — Colorado State University (Networks & Security)
 
-I build and secure AWS infrastructure with an emphasis on least-privilege IAM, network segmentation, cloud security, and DevSecOps. My flagship project is a production-patterned cloud security platform on AWS — containerized on ECS Fargate with automated incident response pipelines and a four-gate DevSecOps CI/CD pipeline. Currently looking for Cloud/DevOps Engineer roles.
+I'm a recent Computer Science graduate focused on infrastructure engineering, cloud computing, and automation. I enjoy building reliable, secure systems using AWS, Linux, Terraform, Python, and Docker while applying security best practices throughout the infrastructure lifecycle.
+
+My flagship project is a production-patterned AWS infrastructure platform featuring Infrastructure as Code, containerized workloads on ECS Fargate, automated incident response, and a secure CI/CD pipeline. I'm currently seeking entry-level Infrastructure, Cloud, Platform, or DevOps engineering opportunities where I can continue building production experience.
 
 ---
 
 ## 🔧 Projects
 
-**[AWS Cloud Security Operations & DevSecOps](https://github.com/Zach-Maestas/aws-security-ops-pipeline)**
-Production-patterned AWS security platform featuring secure multi-tier VPC architecture, automated incident response (EventBridge → Lambda → SNS), and a DevSecOps pipeline with four security gates (Gitleaks, Checkov, Trivy, Terraform validate). Full deploy or teardown from a single command.
+### AWS Cloud Infrastructure & Security Platform
+**GitHub:** https://github.com/Zach-Maestas/aws-security-ops-pipeline
+
+Production-patterned AWS infrastructure platform featuring:
+
+- Multi-tier VPC architecture
+- Infrastructure as Code with Terraform
+- Containerized applications on ECS Fargate
+- Automated incident response using EventBridge, Lambda, and SNS
+- Secure GitHub Actions CI/CD with OIDC federation
+- Four security gates: Gitleaks, Checkov, Trivy, and Terraform validation
+- Single-command deployment and teardown
 
 ---
 
 ## 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate
-- HashiCorp Terraform Associate 004
+- HashiCorp Terraform Associate (003/004)
 - CompTIA Security+
 - CompTIA Network+
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-**Cloud & Infrastructure**
+### Infrastructure & Cloud
 - AWS: VPC, EC2, ECS Fargate, ALB, RDS, S3, Route 53
-- AWS Security: IAM/STS, GuardDuty, Security Hub, Secrets Manager, KMS, SCPs, Permission Boundaries
-- AWS Ops: CloudWatch, CloudTrail, EventBridge, SSM, Config
-- Terraform (IaC), Docker, Linux
+- Infrastructure as Code: Terraform
+- Linux
+- Docker
 
-**DevSecOps & CI/CD**
-- GitHub Actions with OIDC federation (no stored credentials)
-- Pipeline security gates: SAST, container scanning, secret detection, IaC misconfiguration scanning
+### AWS Security & Operations
+- IAM, STS, SCPs, Permission Boundaries
+- GuardDuty, Security Hub
+- Secrets Manager, KMS
+- CloudWatch, CloudTrail
+- EventBridge, Systems Manager, AWS Config
 
-**Networking**
-- TCP/IP, DNS, Subnets & Routing, Security Groups & NACLs, VPN
+### Networking
+- TCP/IP
+- DNS
+- Routing & Subnetting
+- Security Groups & NACLs
+- VPN Fundamentals
 
-**Scripting & Automation**
-- Python (boto3), Bash
+### Automation & CI/CD
+- GitHub Actions
+- OIDC Federation
+- Python (boto3)
+- Bash
+
+### Security
+- Least-Privilege IAM
+- Infrastructure Security
+- Secret Detection
+- Container Scanning
+- Infrastructure as Code Security
+- SAST
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zach-maestas-325a482b6)
+**LinkedIn:** https://linkedin.com/in/zach-maestas-325a482b6
