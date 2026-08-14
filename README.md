@@ -4,7 +4,7 @@
 
 I’m a recent Computer Science graduate focused on backend systems, infrastructure engineering, cloud platforms, and automation. My experience includes hands-on work with Linux, networking, AWS, Terraform, Docker, CI/CD, and security, along with backend development through Java, SQL, REST APIs, and testing.
 
-My projects include a production-patterned AWS infrastructure and security platform, Java backend and API development, and algorithm-focused coursework involving clustering and classification. I’m currently strengthening core software engineering fundamentals while building reliable, scalable systems.
+My projects include a production-oriented AWS infrastructure and security platform, Java backend and API development, and algorithm-focused coursework involving clustering and classification. I’m focused on building reliable, scalable systems while continuing to deepen my software engineering fundamentals.
 
 ---
 
