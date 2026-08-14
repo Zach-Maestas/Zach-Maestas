@@ -1,10 +1,10 @@
 # Hi, I'm Zach 👋
 
-**Infrastructure & Cloud Engineering** | Recent Computer Science Graduate — Colorado State University (Networks & Security)
+**Software Engineer** | Backend & Infrastructure | Recent Computer Science Graduate, Colorado State University
 
-I'm a recent Computer Science graduate focused on infrastructure engineering, cloud computing, and automation. I enjoy building reliable, secure systems using AWS, Linux, Terraform, Python, and Docker while applying security best practices throughout the infrastructure lifecycle.
+I'm a recent Computer Science graduate interested in backend systems, infrastructure engineering, cloud platforms, and automation. My background spans software development, Linux, networking, AWS, Terraform, Docker, CI/CD, and security.
 
-My flagship project is a production-patterned AWS infrastructure platform featuring Infrastructure as Code, containerized workloads on ECS Fargate, automated incident response, and a secure CI/CD pipeline. I'm currently seeking entry-level Infrastructure, Cloud, Platform, or DevOps engineering opportunities where I can continue building production experience.
+My projects include a production-patterned AWS infrastructure and security platform, Java backend and API development, and algorithm-focused coursework involving clustering and classification. I'm focused on strengthening core software engineering fundamentals while building reliable, scalable systems.
 
 ---
 
@@ -36,39 +36,44 @@ Production-patterned AWS infrastructure platform featuring:
 
 ## 🛠️ Technical Skills
 
+### Programming & Backend
+- Python
+- Java
+- SQL
+- REST APIs
+- Bash
+
 ### Infrastructure & Cloud
 - AWS: VPC, EC2, ECS Fargate, ALB, RDS, S3, Route 53
-- Infrastructure as Code: Terraform
-- Linux
+- Terraform
 - Docker
+- Linux
 
-### AWS Security & Operations
-- IAM, STS, SCPs, Permission Boundaries
-- GuardDuty, Security Hub
-- Secrets Manager, KMS
-- CloudWatch, CloudTrail
-- EventBridge, Systems Manager, AWS Config
+### DevOps & Automation
+- Git
+- GitHub Actions
+- CI/CD
+- OIDC Federation
+- Infrastructure as Code
+- boto3
 
-### Networking
+### Systems & Networking
 - TCP/IP
 - DNS
 - Routing & Subnetting
 - Security Groups & NACLs
 - VPN Fundamentals
 
-### Automation & CI/CD
-- GitHub Actions
-- OIDC Federation
-- Python (boto3)
-- Bash
-
-### Security
+### Cloud Security & Operations
+- IAM, STS, SCPs, Permission Boundaries
+- GuardDuty, Security Hub
+- Secrets Manager, KMS
+- CloudWatch, CloudTrail
+- EventBridge, Systems Manager, AWS Config
 - Least-Privilege IAM
-- Infrastructure Security
-- Secret Detection
 - Container Scanning
 - Infrastructure as Code Security
-- SAST
+- Secret Detection
 
 ---
 
