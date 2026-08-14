@@ -1,6 +1,6 @@
 # Hi, I'm Zach 👋
 
-**Software Engineer** | Backend & Infrastructure | Recent Computer Science Graduate, Colorado State University
+## **Software Engineer** | Backend & Infrastructure | Recent Computer Science Graduate, Colorado State University
 
 I'm a recent Computer Science graduate interested in backend systems, infrastructure engineering, cloud platforms, and automation. My background spans software development, Linux, networking, AWS, Terraform, Docker, CI/CD, and security.
 
