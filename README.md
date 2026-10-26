@@ -25,7 +25,7 @@ Backend service that ingests cloud security findings, maps them to NIST 800-53 c
 - Keyless CI/CD via GitHub Actions OIDC federation, plus four security gates (Gitleaks, Checkov, Trivy, terraform validate)
 
 ### Geographic Tour Optimization Service
-**Java · Spark Java · MariaDB · JDBC · JUnit · Mockito · Maven** — [Repo](REPLACE_WITH_REPO_URL)
+**Java · Spark Java · MariaDB · JDBC · JUnit · Mockito · Maven** — [Repo]((https://github.com/CSU-CS-314-Spring-2025/t16))
 
 - REST endpoints with versioned request/response contracts validated against JSON schemas
 - Route optimization using nearest-neighbor construction with a 2-opt improvement pass
