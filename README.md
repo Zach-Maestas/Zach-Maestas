@@ -10,22 +10,25 @@ Looking for early-career software engineering roles in backend, infrastructure, 
 
 ## 🔧 Projects
 
-### Cloud Security Findings Platform *(in progress)*
-**Python · FastAPI · PostgreSQL · pytest · Docker · AWS**
+### Cloud Security Findings Platform
+**Python · FastAPI · PostgreSQL · AWS · Terraform · Docker · GitHub Actions** — [Repo](https://github.com/Zach-Maestas/aws-security-ops-pipeline)
 
-Backend service that ingests cloud security findings, maps them to NIST 800-53 controls, and serves them through a REST API with tests running in CI.
-<!-- Add repo link and 3–4 bullets once the API, schema, and tests are working -->
+A backend service running on production-style AWS infrastructure I built with Terraform. The infrastructure layer is complete. The application layer is in progress.
 
-### Automated AWS Infrastructure & Security Platform
-**AWS · Terraform · Python · Bash · Docker · GitHub Actions** — [Repo](https://github.com/Zach-Maestas/aws-security-ops-pipeline)
-
+**Infrastructure (complete)**
 - 40+ AWS resources across 6 Terraform modules with remote state locking, with single-command deploy and teardown
 - Three-tier VPC (ALB → ECS Fargate → RDS PostgreSQL) with least-privilege security group chaining
 - Event-driven auto-remediation of risky IAM and security group changes (EventBridge → Lambda → SNS)
 - Keyless CI/CD via GitHub Actions OIDC federation, plus four security gates (Gitleaks, Checkov, Trivy, terraform validate)
 
+**Backend (in progress)**
+- Python/FastAPI REST API that ingests cloud security findings and maps them to NIST 800-53 controls
+- PostgreSQL schema with migrations, plus pytest unit and integration tests running in CI
+<!-- Move completed items above and update as features ship -->
+
+
 ### Geographic Tour Optimization Service
-**Java · Spark Java · MariaDB · JDBC · JUnit · Mockito · Maven** — [Repo]((https://github.com/CSU-CS-314-Spring-2025/t16))
+**Java · Spark Java · MariaDB · JDBC · JUnit · Mockito · Maven** — [Repo](REPLACE_WITH_REPO_URL)
 
 - REST endpoints with versioned request/response contracts validated against JSON schemas
 - Route optimization using nearest-neighbor construction with a 2-opt improvement pass
