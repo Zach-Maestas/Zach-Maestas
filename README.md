@@ -1,82 +1,55 @@
 # Hi, I'm Zach 👋
 
-### **Software Engineer** | Backend & Infrastructure | Recent Computer Science Graduate, Colorado State University
+**Software Engineer · Backend & Infrastructure** — Computer Science graduate, Colorado State University (Networks & Security concentration)
 
-I’m a recent Computer Science graduate focused on backend systems, infrastructure engineering, cloud platforms, and automation. My experience includes hands-on work with Linux, networking, AWS, Terraform, Docker, CI/CD, and security, along with backend development through Java, SQL, REST APIs, and testing.
+I build backend systems and the infrastructure they run on. I've written REST APIs in Java with SQL and automated testing, and built a full AWS platform with Terraform, Docker, and secure CI/CD. I'm currently building a Python/FastAPI backend with PostgreSQL.
 
-My projects include a production-oriented AWS infrastructure and security platform, Java backend and API development, and algorithm-focused coursework involving clustering and classification. I’m focused on building reliable, scalable systems while continuing to deepen my software engineering fundamentals.
+Looking for early-career software engineering roles in backend, infrastructure, platform, and developer tooling. **Open to relocation** (Chicago · Austin · New York City · Washington, DC · Denver) and remote.
 
 ---
 
 ## 🔧 Projects
 
-### AWS Cloud Infrastructure & Security Platform
-**GitHub:** https://github.com/Zach-Maestas/aws-security-ops-pipeline
+### Cloud Security Findings Platform *(in progress)*
+**Python · FastAPI · PostgreSQL · pytest · Docker · AWS**
 
-Production-patterned AWS infrastructure platform featuring:
+Backend service that ingests cloud security findings, maps them to NIST 800-53 controls, and serves them through a REST API with tests running in CI.
+<!-- Add repo link and 3–4 bullets once the API, schema, and tests are working -->
 
-- Multi-tier VPC architecture
-- Infrastructure as Code with Terraform
-- Containerized applications on ECS Fargate
-- Automated incident response using EventBridge, Lambda, and SNS
-- Secure GitHub Actions CI/CD with OIDC federation
-- Four security gates: Gitleaks, Checkov, Trivy, and Terraform validation
-- Single-command deployment and teardown
+### Automated AWS Infrastructure & Security Platform
+**AWS · Terraform · Python · Bash · Docker · GitHub Actions** — [Repo](https://github.com/Zach-Maestas/aws-security-ops-pipeline)
+
+- 40+ AWS resources across 6 Terraform modules with remote state locking, with single-command deploy and teardown
+- Three-tier VPC (ALB → ECS Fargate → RDS PostgreSQL) with least-privilege security group chaining
+- Event-driven auto-remediation of risky IAM and security group changes (EventBridge → Lambda → SNS)
+- Keyless CI/CD via GitHub Actions OIDC federation, plus four security gates (Gitleaks, Checkov, Trivy, terraform validate)
+
+### Geographic Tour Optimization Service
+**Java · Spark Java · MariaDB · JDBC · JUnit · Mockito · Maven** — [Repo](REPLACE_WITH_REPO_URL)
+
+- REST endpoints with versioned request/response contracts validated against JSON schemas
+- Route optimization using nearest-neighbor construction with a 2-opt improvement pass
+- SQL-backed location search with hand-written JDBC queries
+- Unit and integration tests with JUnit and Mockito, with branch coverage tracked by JaCoCo in CI
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python · Java · SQL · Bash
+- **Backend:** REST APIs · FastAPI · PostgreSQL · MariaDB · JDBC · pytest · JUnit · Mockito
+- **Cloud & Infrastructure:** AWS (VPC, ECS Fargate, ALB, RDS, Lambda, EventBridge, S3, IAM) · Terraform · Docker · Linux
+- **DevOps:** Git · GitHub Actions · CI/CD · OIDC federation · Infrastructure as Code
+- **Security & Networking:** Least-privilege IAM · secrets management · GuardDuty · Security Hub · CloudTrail · TCP/IP · DNS · subnetting
 
 ---
 
 ## 📜 Certifications
 
-- AWS Certified Solutions Architect – Associate
-- HashiCorp Terraform Associate (003/004)
-- CompTIA Security+
-- CompTIA Network+
-
----
-
-## 🛠️ Technical Skills
-
-### Programming & Backend
-- Python
-- Java
-- SQL
-- REST APIs
-- Bash
-
-### Infrastructure & Cloud
-- AWS: VPC, EC2, ECS Fargate, ALB, RDS, S3, Route 53
-- Terraform
-- Docker
-- Linux
-
-### DevOps & Automation
-- Git
-- GitHub Actions
-- CI/CD
-- OIDC Federation
-- Infrastructure as Code
-- boto3
-
-### Systems & Networking
-- TCP/IP
-- DNS
-- Routing & Subnetting
-- Security Groups & NACLs
-- VPN Fundamentals
-
-### Cloud Security & Operations
-- IAM, STS, SCPs, Permission Boundaries
-- GuardDuty, Security Hub
-- Secrets Manager, KMS
-- CloudWatch, CloudTrail
-- EventBridge, Systems Manager, AWS Config
-- Least-Privilege IAM
-- Container Scanning
-- Infrastructure as Code Security
-- Secret Detection
+AWS Solutions Architect – Associate · HashiCorp Terraform Associate · CompTIA Security+ · CompTIA Network+
 
 ---
 
 ## 📫 Connect
 
-**LinkedIn:** https://linkedin.com/in/zach-maestas-325a482b6
+[LinkedIn](https://linkedin.com/in/zach-maestas-325a482b6) · [zacharymaestas.com](https://zacharymaestas.com)
