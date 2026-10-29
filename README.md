@@ -16,7 +16,7 @@ Looking for early-career roles in cloud, infrastructure, platform, and DevSecOps
 
 Detects risky AWS changes from CloudTrail (security groups opened to the internet, admin access granted, logging disabled), tracks them as deduplicated findings, and remediates them automatically.
 
-**v1: cloud security platform** ([archived at `v1-cloud-security`](https://github.com/Zach-Maestas/aws-security-findings-platform/tree/v1-cloud-security))
+**v1: cloud security platform** archived at ([`v1-cloud-security`](https://github.com/Zach-Maestas/aws-security-findings-platform/tree/v1-cloud-security))
 - 40+ AWS resources across 6 Terraform modules with remote state locking, plus single-command deploy and teardown
 - Three-tier VPC (ALB → ECS Fargate → RDS PostgreSQL) with least-privilege security group chaining
 - Event-driven auto-remediation of IAM privilege escalation and open security groups (EventBridge → Lambda → SNS)
